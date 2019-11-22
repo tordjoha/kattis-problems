@@ -1,3 +1,3 @@
 # kattis-problems
 This is where I upload my solutions to problems from https://open.kattis.com/problems/
-Solved in Python 2.7
+Mainly solved in Python but also Java.
