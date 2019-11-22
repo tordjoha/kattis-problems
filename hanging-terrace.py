@@ -9,7 +9,6 @@ for __ in range(e):
 		if (curr + gCount) <= tMax:
 			curr += gCount
 		else:
-			curr += 0
 			deniedGroups += 1
 	else:
 		curr -= gCount
