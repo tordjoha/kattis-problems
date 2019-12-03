@@ -5,10 +5,11 @@ for __ in range(e):
 	gAction, gCount = raw_input().split(" ")
 	gCount = int(gCount)
 	if gAction == 'enter':		
+	if gAction == 'enter':
 		if (curr + gCount) <= tMax:
 			curr += gCount
 		else:
 			deniedGroups += 1
 	else:
 		curr -= gCount
-print(deniedGroups)
+print(deniedGroups)print(deniedGroups)
