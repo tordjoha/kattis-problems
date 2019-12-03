@@ -13,3 +13,4 @@ for __ in range(e):
 	else:
 		curr -= gCount
 print(deniedGroups)print(deniedGroups)
+print(deniedGroups)
