@@ -15,6 +15,10 @@ for __ in range(x): #Comparison loops
     else:
         print("The imputs are not equal in length!")
 
+    output1 = ''.join(firIn)
+    output2 = ''.join(secIn)
     output = ''.join(differences)
+    print(output1)
+    print(output2)
     print(output)
     print()
