@@ -17,3 +17,4 @@ for __ in range(x): #Comparison loops
 
     output = ''.join(differences)
     print(output)
+    print()
