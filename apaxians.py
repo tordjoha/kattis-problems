@@ -4,4 +4,3 @@ for char in input[1:]:
 	if char != x[-1]:
 		x += char
 print(x)
-
