@@ -2,7 +2,7 @@
 #Cryptographer's Conundrum
 #KATTIS
 
-x = raw_input()
+x = input()
 l = list(x)
 alreadyThere = 0
 for i in range(len(l)):
