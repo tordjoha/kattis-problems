@@ -1,0 +1,5 @@
+x = input()
+y = list(x)
+y.reverse()
+z = ''.join(y)
+print(z)
